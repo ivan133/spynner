@@ -1,5 +1,11 @@
 CHANGELOG
 ============
+2.25 (unreleased)
+-----------------
+
+- Nothing changed yet.
+
+
 2.24 (2019-04-20)
 -----------------
 - support
