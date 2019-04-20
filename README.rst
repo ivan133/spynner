@@ -33,10 +33,6 @@ Companies
 
 
 
-Support development
----------------------
-- `paypal <https://paypal.me/kiorky>`_
-
 Authors
 ------------
 
